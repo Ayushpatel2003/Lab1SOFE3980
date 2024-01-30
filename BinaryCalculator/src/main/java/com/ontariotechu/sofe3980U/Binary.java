@@ -96,7 +96,7 @@ public class Binary
 	}
 	
 	/**
-  *Bitwisen and two variables
+  *Bitwise and two variables
   *
   * @param binary1 The first addend object
   * @param binary2 The second addend object
